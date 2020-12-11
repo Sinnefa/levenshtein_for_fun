@@ -13,3 +13,5 @@ def sickLevenshtein(a,b):
 ```
 
 I also implemented it with the naive recursive mathemtical definition https://en.wikipedia.org/wiki/Levenshtein_distance and the standard DP memory optimized version. In memory optimized you keep only two lines. I also wrote a script to compre my implementations agains a standard implementation contained in the package "python-Levenshtein"
+
+Find it also @ https://en.wikibooks.org/wiki/Algorithm_Implementation/Strings/Levenshtein_distance#Python
